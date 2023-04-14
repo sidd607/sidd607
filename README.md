@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Siddartha Padhi
-- I’m a Partner Solutions Enginner @ LinkedIn
-👨‍💻🍺🏎️.ws
+- I’m a Senior Partner Solutions Enginner @ LinkedIn
 
 <!---
 sidd607/sidd607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
